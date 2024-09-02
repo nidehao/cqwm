@@ -1,0 +1,7 @@
+#git忽略文件目录
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
